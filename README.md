@@ -1,6 +1,6 @@
 # AI for Medical Diagnosis
 This repository contains the notes, codes, assignments, quizzes and other additional materials about the course "AI for Medical Diagnosis" from DeepLearning.AI Coursera. Enjoy!  <br></br>
-This note contains the following sections:<br>
+The notes contain the modules outlined below:<br>
 |Week|Module|Gist|
 |---|---|---|
 |1-1|AI for medical specialization|<li>Demo</li><li>Pre-requisites</li>|
